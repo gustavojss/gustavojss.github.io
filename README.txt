@@ -9,5 +9,3 @@ site
  |--- posts\                  Folder containing blog posts. By default is empty.
  |--- theme\                  Folder containing currently installed theme. By default is empty.
 
-forcing things 
-

@@ -8,7 +8,6 @@ My Pharo projects are hosted in my *SmalltalkHub>http://smalltalkhub.com/#!/~Gus
 
 MacroRecorder is a tool that records a sequence of code changes and replays the same sequence in a similar but different code location. Our prototype is built on top of Pharo’s IDE.
 
-
 !! OrionPlanning
 
 OrionPlanning is a tool to assist architecture definition and large refactorings. Our prototype also supports architectural analysis by the definition of dependency constraints. *Demo Video>https://www.youtube.com/watch?v=TWWPgjRIljk*
