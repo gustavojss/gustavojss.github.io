@@ -5,17 +5,17 @@
 ""Gustavo Santos"", Nicolas Anquetil, Anne Etien, Stéphane Ducasse, and Marco Tulio Valente.{{{html:<br>}}}
 Recording and Replaying System Specific, Source Code Transformations.{{{html:<br>}}}
 In 15th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM), pages 1-10, 2015.
-*PDF>http://rmod.lille.inria.fr/archives/papers/Sant15-SCAM-MacroRecorder.pdf*
+*PDF>http://rmod.lille.inria.fr/archives/papers/Sant15b-SCAM-MacroRecorder.pdf*
 
 ""Gustavo Santos"", Nicolas Anquetil, Anne Etien, Stéphane Ducasse, and Marco Tulio Valente.{{{html:<br>}}}
 System Specific, Source Code Transformations.{{{html:<br>}}}
 In 31st IEEE International Conference on Software Maintenance and Evolution (ICSME), pages 1-9, 2015.
-*PDF>http://rmod.lille.inria.fr/archives/papers/Sant15-ICSME-TransformationPatterns.pdf*
+*PDF>http://rmod.lille.inria.fr/archives/papers/Sant15a-ICSME-TransformationPatterns.pdf*
 
 ""Gustavo Santos"", Nicolas Anquetil, Anne Etien, Stéphane Ducasse, and Marco Tulio Valente.{{{html:<br>}}}
 OrionPlanning: Improving Modularization and Checking Consistency on Software Architecture.{{{html:<br>}}}
 In 3rd IEEE Working Conference on Software Visualization (VISSOFT), pages 1-5, 2015.
-*PDF>http://rmod.lille.inria.fr/archives/papers/Sant15-VISSOFT-OrionPlanning.pdf*
+*PDF>http://rmod.lille.inria.fr/archives/papers/Sant15c-VISSOFT-OrionPlanning.pdf*
 
 ""Gustavo Santos"", Marco Tulio Valente, and Nicolas Anquetil.{{{html:<br>}}}
 Remodularization Analysis Using Semantic Clustering.{{{html:<br>}}}
@@ -29,7 +29,7 @@ In 17th IEEE Working Conference on Reverse Engineering (WCRE), 2010.
 
 ""Gustavo Santos"", Katyusco Santos, Marco Tulio Valente, Dalton Serey, and Nicolas Anquetil.{{{html:<br>}}}
 TopicViewer: Evaluating Remodularizations Using Semantic Clustering.{{{html:<br>}}}
-IV Congresso Brasileiro de Software: Teoria e Prática (CBSoft, Sessão de Ferramentas), 2013.
+IV Congresso Brasileiro de Software: Teoria e Prática (CBSoft, Sessão de Ferramentas), 2013. *PDF>http://homepages.dcc.ufmg.br/~mtov/pub/2013_cbsoft_tools_topicviewer.pdf*
 
 !! Master Thesis
 
