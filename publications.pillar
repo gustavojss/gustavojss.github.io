@@ -28,10 +28,14 @@ In 17th IEEE Working Conference on Reverse Engineering (WCRE), 2010.
 !! Refereed Articles in International Workshops
 
 Markiyan Rizun, ""Gustavo Santos"", Stéphane Ducasse, and Camille Teruel.{{{html:<br>}}}
-First Class Patterns for Object Matching.{{{html:<br>}}}
-To appear in: International Workshop on Smalltalk Technologies (IWST 2016)
+Phorms: Pattern Combinator Library for Pharo.{{{html:<br>}}}
+International Workshop on Smalltalk Technologies (IWST). 2016. *PDF>https://hal.archives-ouvertes.fr/hal-01353883v1*
 
 !! Refereed Articles in Brazilian Conferences
+
+Izabela Melo, ""Gustavo Santos””, Dalton Serey, and Marco Tulio Valente.{{{html:<br>}}}
+Percepções de 395 Desenvolvedores sobre Documentação e Verificação de Arquiteturas de Software.{{{html:<br>}}}
+X Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS), 2016. *PDF>http://www.dcc.ufmg.br/~mtov/pub/2016-sbcars-iza.pdf*
 
 ""Gustavo Santos"", Katyusco Santos, Marco Tulio Valente, Dalton Serey, and Nicolas Anquetil.{{{html:<br>}}}
 TopicViewer: Evaluating Remodularizations Using Semantic Clustering.{{{html:<br>}}}
