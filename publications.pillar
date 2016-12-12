@@ -2,24 +2,29 @@
 
 !! Refereed Articles in International Conferences
 
+""Gustavo Santos"", Klérisson Paixão, Nicolas Anquetil, Anne Etien, Marcelo Maia, and Stéphane Ducasse.{{{html:<br>}}}
+Recommending Source Code Locations for System Specific Transformations.{{{html:<br>}}}
+In 24th IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER), pages 1-10, 2017.
+
 ""Gustavo Santos"", Nicolas Anquetil, Anne Etien, Stéphane Ducasse, and Marco Tulio Valente.{{{html:<br>}}}
 Recording and Replaying System Specific, Source Code Transformations.{{{html:<br>}}}
-In 15th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM), pages 1-10, 2015.
+In 15th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM), pages 221-230, 2015.
 *PDF>http://rmod.lille.inria.fr/archives/papers/Sant15b-SCAM-MacroRecorder.pdf*
 
 ""Gustavo Santos"", Nicolas Anquetil, Anne Etien, Stéphane Ducasse, and Marco Tulio Valente.{{{html:<br>}}}
 System Specific, Source Code Transformations.{{{html:<br>}}}
-In 31st IEEE International Conference on Software Maintenance and Evolution (ICSME), pages 1-9, 2015.
+In 31st IEEE International Conference on Software Maintenance and Evolution (ICSME), pages 221-230, 2015.
 *PDF>http://rmod.lille.inria.fr/archives/papers/Sant15a-ICSME-TransformationPatterns.pdf*
 
 ""Gustavo Santos"", Nicolas Anquetil, Anne Etien, Stéphane Ducasse, and Marco Tulio Valente.{{{html:<br>}}}
 OrionPlanning: Improving Modularization and Checking Consistency on Software Architecture.{{{html:<br>}}}
-In 3rd IEEE Working Conference on Software Visualization (VISSOFT), pages 1-5, 2015.
+In 3rd IEEE Working Conference on Software Visualization (VISSOFT), pages 190-194, 2015.
 *PDF>http://rmod.lille.inria.fr/archives/papers/Sant15c-VISSOFT-OrionPlanning.pdf*
 
 ""Gustavo Santos"", Marco Tulio Valente, and Nicolas Anquetil.{{{html:<br>}}}
 Remodularization Analysis Using Semantic Clustering.{{{html:<br>}}}
-In IEEE Conference on Software Maintenance, Reengineering and Reverse Engineering (CSMR-WCRE), pages 224-233, 2014. *PDF>http://www.dcc.ufmg.br/~mtov/pub/2014_csmrwcre_clustering.pdf*
+In IEEE Conference on Software Maintenance, Reengineering and Reverse Engineering (CSMR-WCRE), pages 224-233, 2014.
+*PDF>http://www.dcc.ufmg.br/~mtov/pub/2014_csmrwcre_clustering.pdf*
 
 Roberto A. Bittencourt, ""Gustavo J.S. Santos"", Dalton D.S. Guerrero, and Gail C. Murphy.{{{html:<br>}}}
 Improving Automated Mapping in Reflexion Models using Information Retrieval Techniques.{{{html:<br>}}}
@@ -29,22 +34,27 @@ In 17th IEEE Working Conference on Reverse Engineering (WCRE), 2010.
 
 Miguel Ramos, Marco Tulio Valente, Ricardo Terra, ""Gustavo Santos"".{{{html:<br>}}}
 AngularJS in the Wild: A Survey with 460 Developers.{{{html:<br>}}}
-In 7th Workshop on Evaluation and Usability of Programming Languages and Tools (PLATEAU), 2016. *PDF>https://arxiv.org/abs/1608.02012*
+In 7th Workshop on Evaluation and Usability of Programming Languages and Tools (PLATEAU), 2016.
+*PDF>https://arxiv.org/abs/1608.02012*
 
 Markiyan Rizun, ""Gustavo Santos"", Stéphane Ducasse, and Camille Teruel.{{{html:<br>}}}
 Phorms: Pattern Combinator Library for Pharo.{{{html:<br>}}}
-International Workshop on Smalltalk Technologies (IWST). 2016. *PDF>https://hal.archives-ouvertes.fr/hal-01353883v1*
+International Workshop on Smalltalk Technologies (IWST). 2016.
+*PDF>https://hal.archives-ouvertes.fr/hal-01353883v1*
 
 !! Refereed Articles in Brazilian Conferences
 
 Izabela Melo, ""Gustavo Santos"", Dalton Serey, and Marco Tulio Valente.{{{html:<br>}}}
 Percepções de 395 Desenvolvedores sobre Documentação e Verificação de Arquiteturas de Software.{{{html:<br>}}}
-X Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS), 2016. *PDF>http://www.dcc.ufmg.br/~mtov/pub/2016-sbcars-iza.pdf*
+X Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS), 2016.
+*PDF>http://www.dcc.ufmg.br/~mtov/pub/2016-sbcars-iza.pdf*
 
 ""Gustavo Santos"", Katyusco Santos, Marco Tulio Valente, Dalton Serey, and Nicolas Anquetil.{{{html:<br>}}}
 TopicViewer: Evaluating Remodularizations Using Semantic Clustering.{{{html:<br>}}}
-IV Congresso Brasileiro de Software: Teoria e Prática (CBSoft, Sessão de Ferramentas), 2013. *PDF>http://homepages.dcc.ufmg.br/~mtov/pub/2013_cbsoft_tools_topicviewer.pdf*
+IV Congresso Brasileiro de Software: Teoria e Prática (CBSoft, Sessão de Ferramentas), 2013.
+*PDF>http://homepages.dcc.ufmg.br/~mtov/pub/2013_cbsoft_tools_topicviewer.pdf*
 
 !! Master Thesis
 
-Remodularization Analysis Using Semantic Clustering, 2014. *PDF>http://www.dcc.ufmg.br/~mtov/diss/2014_gustavo.pdf*
+Remodularization Analysis Using Semantic Clustering, 2014.
+*PDF>http://www.dcc.ufmg.br/~mtov/diss/2014_gustavo.pdf*
